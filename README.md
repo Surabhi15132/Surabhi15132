@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Surbhi and I'm an Aspired Data Scientist, from India</p>
+<p align="left">My name is Surbhi and I'm an Aspired Data Scientist </p>
 
 ###
 
